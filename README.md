@@ -1,2 +1,2 @@
 # DocumentsTestSamples
-Some documents for testing purpuse
+Some documents for testing purpose
